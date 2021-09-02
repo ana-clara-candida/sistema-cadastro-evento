@@ -2,7 +2,7 @@
 
 Olá :)
 
-Esse é um sistema de cadastro de evento feito em JavaScript. Ele: 
+Esse é um sistema de cadastro de evento feito como exercício em JavaScript. Ele: 
 
 -Registra o nome do evento;
 
